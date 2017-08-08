@@ -1,0 +1,2 @@
+c:\users\tlw-julyelain\documents\visual studio 2017\Projects\learnTypeScript\learnTypeScript\greeter.js
+c:\users\tlw-julyelain\documents\visual studio 2017\Projects\learnTypeScript\learnTypeScript\greeter.js.map
