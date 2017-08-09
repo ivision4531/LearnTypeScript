@@ -1,0 +1,23 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    //"noImplicitAny": true,
+    //"noImplicitReturns": true,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5",
+    "charset": "utf8",
+    "baseUrl": "Scripts",
+    "module": "amd"
+  },
+  "include": [
+    "Areas/**/*.ts",
+    "Scripts/**/*.ts",
+    "**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ]
+}

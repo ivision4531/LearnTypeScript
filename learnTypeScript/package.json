@@ -1,0 +1,32 @@
+{
+  "name": "t1",
+  "version": "0.0.1",
+  "description": "name",
+  "main": "greeter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/echarts": "0.0.5",
+    "@types/fullpage.js": "^2.8.6",
+    "@types/gridstack": "0.0.36",
+    "@types/jquery": "^2.0.41",
+    "@types/jquery.scrollto": "^1.4.27",
+    "@types/jqueryui": "^1.11.32",
+    "@types/mustache": "^0.8.29",
+    "@types/select2": "^4.0.34",
+    "@types/underscore": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-requirejs-optimize": "^1.2.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8",
+    "pump": "^1.0.2",
+    "fullpage.js": "^2.9.4",
+    "dsmorse-gridster": "^0.7.0",
+    "mustache": "^2.3.0"
+  }
+}

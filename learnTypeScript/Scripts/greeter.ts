@@ -12,14 +12,15 @@
 //    lastName: string;
 //}
 
-//function greeter(person: IPerson) {
-//    return "Hello," + person.firstName + " " + person.lastName;
-//}
+function greeter3(person: IPerson) {
+    return "Hello," + person.firstName + " " + person.lastName;
+}
 
 //var user = { firstName: "wang", lastName: "Longlong" };
 
 //document.body.innerHTML = greeter(user);
 
+import * as $ from "jquery"
 
 
 interface IPerson {
@@ -38,6 +39,6 @@ function greeter(person: IPerson) {
     return "Hello, " + person.firstName + " " + person.lastName;
 }
 
-var user = new Student("Jane", "M.", "User");
-
-document.body.innerHTML = greeter(user);
+var user = new Student("James22222", "M.", "User");
+$("body").html(greeter(user));      
+    
