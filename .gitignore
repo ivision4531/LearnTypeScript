@@ -5,7 +5,7 @@ obj
 logs
 node_modules
 bower_components
-packages
+#packages
 learnTypeScript/Scripts/greeter.js
 learnTypeScript/Scripts/greeter.js.map
 learnTypeScript/Scripts/Debug
