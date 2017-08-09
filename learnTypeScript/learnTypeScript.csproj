@@ -124,7 +124,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include=".gitignore" />
     <Content Include="packages.config" />
     <Content Include="node_modules\%40types\jquery\LICENSE" />
     <Content Include="node_modules\%40types\jquery\package.json" />

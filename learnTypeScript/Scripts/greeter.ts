@@ -39,6 +39,6 @@ function greeter(person: IPerson) {
     return "Hello, " + person.firstName + " " + person.lastName;
 }
 
-var user = new Student("James22222", "M.", "User");
+var user = new Student("Jame", "M.", "User");
 $("body").html(greeter(user));      
     
